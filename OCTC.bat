@@ -1,7 +1,7 @@
 @REM ----- OCTC Begin -----
 @REM CompanyName: Ceniun Design Studio
 @REM FileDescription: MADE: By TEAM cenDS
-@REM FileVersion: 1.0.0.0 beta
+@REM FileVersion: 1.0.0.1 beta
 @REM LegalCopyright: © 2005 - 2011 Ceniun Design Studio
 @REM ProductName: One Click Trinity Core Installer
 @REM ----- OCTC End -----

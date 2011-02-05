@@ -1,7 +1,7 @@
 @rem ----- OCTDB Begin -----
 @rem CompanyName: Ceniun Design Studio
 @rem FileDescription: MADE: By TEAM cenDS
-@rem FileVersion: 1.0.0.0 beta
+@rem FileVersion: 1.0.0.1 beta
 @rem LegalCopyright: GNU © 2005 - 2011 Ceniun Design Studio
 @rem ProductName: One Click Trinity Database Installer
 @rem ----- OCTDB End -----
